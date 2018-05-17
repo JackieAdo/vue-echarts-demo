@@ -54,9 +54,6 @@
 }
 ```
 
-
-## 路由器的使用：// TODO
-
 ## router-link 的使用：
 > 参考文档：https://router.vuejs.org/zh-cn/api/router-link.html
 
