@@ -27,8 +27,10 @@ npm run e2e
 npm test
 ```
 
-### echarts api: http://echarts.baidu.com/api.html#echarts
+## 参考文档：
 
-### echarts theme: http://echarts.baidu.com/theme-builder/
+echarts api: http://echarts.baidu.com/api.html#echarts
 
-### echarts在vue项目中使用的时候需要使用json格式的内容，在主题js文件中export，参考文件：src/assets/frog-theme.js
+echarts theme: http://echarts.baidu.com/theme-builder/
+
+echarts在vue项目中使用的时候需要使用json格式的内容，在主题js文件中export，参考文件：src/assets/frog-theme.js
